@@ -1,0 +1,17 @@
+# --- Vivado Ignore ---
+SoC_scratch/*.cache/
+SoC_scratch/*.hw/
+SoC_scratch/*.ip_user_files/
+SoC_scratch/*.runs/
+SoC_scratch/*.sim/
+SoC_scratch/*.sdk/
+*.jou
+*.log
+
+# --- SDK Ignore ---
+SDKworkspace/mcs_cpu_bsp/
+SDKworkspace/RemoteSystemsTempFiles/
+SDKworkspace/SDK.log
+**/Debug/
+**/Release/
+.metadata/
