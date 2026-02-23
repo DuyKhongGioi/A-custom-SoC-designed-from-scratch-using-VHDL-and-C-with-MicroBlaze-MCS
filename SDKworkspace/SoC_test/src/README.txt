@@ -1,2 +1,2 @@
 (This file is auto-generated file of Vivado SDK)
-Empty application. Add your own sources.
+The folder contains headers and drivers to drive hardware cores of system.
